@@ -349,4 +349,4 @@ plt.show()
 ![435443883-64d715a0-e308-4fc7-8ef3-b08e1a1c9bf8](https://github.com/user-attachments/assets/3b9a2b74-c7cf-4729-84a1-04fa9592b171)
 
 # Result:
- Include your result here
+ DATA VISUALIZATION USING MATPLOT LIBRARY IS VERIFIED SUCCESSFULLY
